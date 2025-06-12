@@ -1,0 +1,287 @@
+﻿code,name,iso,link
+01,United Nations,UN,https://www.un.org/en
+02,International Labour Organization,ILO,https://www.ilo.org/
+03,World Health Organization,WHO,https://www.who.int/
+04,World Meteorological Organization,WMO,https://wmo.int/
+05,International Telecommunication Union,ITU,https://www.itu.int/
+06,World Intellectual Property Organization,WIPO,https://www.wipo.int/
+07,European Organization for Nuclear Research,CERN,https://home.cern/
+08,World Trade Organization,WTO,https://www.wto.org/
+09,European Free Trade Association,EFTA,http://www.efta.int/
+010,International Organization for Migration,IOM,https://www.iom.int/
+011,International Bureau of Education,IBE / BIE,
+012,Inter-Parliamentary Union,UIP,https://www.ipu.org/
+013,International Civil Defence Organization,ICDO,
+014,Association of Iron Ore Exporting Countries,APEF,
+015,Universal Postal Union,UPU,
+016,Intergovernmental Organization for International Carriage by Rail,OTIF,
+021,International Textiles and Clothing Bureau,ITCB,
+022,South Centre,SOCE,
+023,International Law Commission,ILC,
+024,Agence de Coop√©ration Culturelle et Technique,ACCT,
+026,International Committee of Red Cross,ICRC,https://www.icrc.org/en
+029,Agency for International Trade Information and Co-operation,ACICI,
+030,International Federation of Red Cross,IFRC,https://www.ifrc.org/
+031,Advisory Centre on WTO Law,ACWL,
+032,Organization for Security and Co-operation in Europe,OSCE,
+033,Global Commission on International Migration,GCIM,
+035,The Global Fund,TGF,https://www.theglobalfund.org/
+036,,,
+037,,,
+1,Holy See (Vatican City),VA,https://www.ungeneva.org/en/blue-book/missions/non-member-states/holy-see
+2,Canada,CA,https://www.ungeneva.org/en/blue-book/missions/member-states/canada
+3,Sri Lanka,LK,https://www.ungeneva.org/en/blue-book/missions/member-states/sri-lanka
+4,Australia,AU,https://www.ungeneva.org/en/blue-book/missions/member-states/australia
+5,Iran,IR,https://www.ungeneva.org/en/blue-book/missions/member-states/iran-islamic-republic
+6,Spain,ES,https://www.ungeneva.org/en/blue-book/missions/member-states/spain
+7,Israel,IL,https://www.ungeneva.org/en/blue-book/missions/member-states/israel
+8,Kuwait,KW,https://www.ungeneva.org/en/blue-book/missions/member-states/kuwait
+9,United States (USA),US,https://www.ungeneva.org/en/blue-book/missions/member-states/united-states-america
+10,Brazil,BR,https://www.ungeneva.org/en/blue-book/missions/member-states/brazil
+11,Mexico,MX,https://www.ungeneva.org/en/blue-book/missions/member-states/mexico
+12,Ireland,IE,https://www.ungeneva.org/en/blue-book/missions/member-states/ireland
+13,Japan,JP,https://www.ungeneva.org/en/blue-book/missions/member-states/japan
+14,New Zealand,NZ,https://www.ungeneva.org/en/blue-book/missions/member-states/new-zealand
+15,Liechtenstein,LI,https://www.ungeneva.org/en/blue-book/missions/member-states/liechtenstein
+16,Monaco,MC,https://www.ungeneva.org/en/blue-book/missions/member-states/monaco
+17,South Africa,ZA,https://www.ungeneva.org/en/blue-book/missions/member-states/south-africa
+18,Egypt,EG,https://www.ungeneva.org/en/blue-book/missions/member-states/egypt
+19,Syria,SY,https://www.ungeneva.org/en/blue-book/missions/member-states/syrian-arab-republic
+20,Algeria,DZ,https://www.ungeneva.org/en/blue-book/missions/member-states/algeria
+21,Argentina,AR,https://www.ungeneva.org/en/blue-book/missions/member-states/argentina
+22,Austria,AT,https://www.ungeneva.org/en/blue-book/missions/member-states/austria
+23,Bolivia,BO,https://www.ungeneva.org/en/blue-book/missions/member-states/bolivia-plurinational-state
+24,Chile,CL,https://www.ungeneva.org/en/blue-book/missions/member-states/chile
+25,Colombia,CO,https://www.ungeneva.org/en/blue-book/missions/member-states/colombia
+26,South Korea,KR,https://www.ungeneva.org/en/blue-book/missions/member-states/republic-korea
+27,Costa Rica,CR,https://www.ungeneva.org/en/blue-book/missions/member-states/costa-rica
+28,Cote D'Ivoire,CI,https://www.ungeneva.org/en/blue-book/missions/member-states/cote-divoire
+29,Cuba,CU,https://www.ungeneva.org/en/blue-book/missions/member-states/cuba
+30,Ecuador,EC,https://www.ungeneva.org/en/blue-book/missions/member-states/ecuador
+31,Finland,FI,https://www.ungeneva.org/en/blue-book/missions/member-states/finland
+32,France,FR,https://www.ungeneva.org/en/blue-book/missions/member-states/france
+33,Ghana,GH,https://www.ungeneva.org/en/blue-book/missions/member-states/ghana
+34,Guatemala,GT,https://www.ungeneva.org/en/blue-book/missions/member-states/guatemala
+35,Haiti,HT,https://www.ungeneva.org/en/blue-book/missions/member-states/haiti
+36,India,IN,https://www.ungeneva.org/en/blue-book/missions/member-states/india
+37,Indonesia,ID,https://www.ungeneva.org/en/blue-book/missions/member-states/indonesia
+38,Iraq,IQ,https://www.ungeneva.org/en/blue-book/missions/member-states/iraq
+39,Italy,IT,https://www.ungeneva.org/en/blue-book/missions/member-states/italy
+40,Lebanon,LB,https://www.ungeneva.org/en/blue-book/missions/member-states/lebanon
+41,Panama,PA,https://www.ungeneva.org/en/blue-book/missions/member-states/panama
+42,Peru,PE,https://www.ungeneva.org/en/blue-book/missions/member-states/peru
+43,Philippines,PH,https://www.ungeneva.org/en/blue-book/missions/member-states/philippines
+44,Portugal,PT,https://www.ungeneva.org/en/blue-book/missions/member-states/portugal
+45,Tunisia,TN,https://www.ungeneva.org/en/blue-book/missions/member-states/tunisia
+46,Türkiye,TR,https://www.ungeneva.org/en/blue-book/missions/member-states/turkiye
+47,Uruguay,UY,https://www.ungeneva.org/en/blue-book/missions/member-states/uruguay
+48,Venezuela,VE,https://www.ungeneva.org/en/blue-book/missions/member-states/venezuela-bolivarian-republic
+49,Vietnam,VN,https://www.ungeneva.org/en/blue-book/missions/member-states/viet-nam
+50,Democratic Republic of the Congo (DRC),CD,https://www.ungeneva.org/en/blue-book/missions/member-states/democratic-republic-congo
+51,Germany,DE,https://www.ungeneva.org/en/blue-book/missions/member-states/germany
+52,Nigeria,NG,https://www.ungeneva.org/en/blue-book/missions/member-states/nigeria
+53,Pakistan,PK,https://www.ungeneva.org/en/blue-book/missions/member-states/pakistan
+54,Bulgaria,BG,https://www.ungeneva.org/en/blue-book/missions/member-states/bulgaria
+55,People's Republic of China,CN,https://www.ungeneva.org/en/blue-book/missions/member-states/china
+56,Hungary,HU,https://www.ungeneva.org/en/blue-book/missions/member-states/hungary
+57,Poland,PL,https://www.ungeneva.org/en/blue-book/missions/member-states/poland
+58,Romania,RO,https://www.ungeneva.org/en/blue-book/missions/member-states/romania
+59,Serbia,SB,https://www.ungeneva.org/en/blue-book/missions/member-states/serbia
+60,Czech Republic,CZ,https://www.ungeneva.org/en/blue-book/missions/member-states/czech-republic
+61,Saudi Arabia,SA,https://www.ungeneva.org/en/blue-book/missions/member-states/saudi-arabia
+62,Belgium,BE,https://www.ungeneva.org/en/blue-book/missions/member-states/belgium
+63,Denmark,DK,https://www.ungeneva.org/en/blue-book/missions/member-states/denmark
+64,Greece,GR,https://www.ungeneva.org/en/blue-book/missions/member-states/greece
+65,Libya,LY,https://www.ungeneva.org/en/blue-book/missions/member-states/libya-state
+66,Morocco,MA,https://www.ungeneva.org/en/blue-book/missions/member-states/morocco
+67,Norway,NO,https://www.ungeneva.org/en/blue-book/missions/member-states/norway
+68,Netherlands,NL,https://www.ungeneva.org/en/blue-book/missions/member-states/netherlands
+69,Sweden,SE,https://www.ungeneva.org/en/blue-book/missions/member-states/sweden
+70,Thailand,TH,https://www.ungeneva.org/en/blue-book/missions/member-states/thailand
+71,Jordan,JO,https://www.ungeneva.org/en/blue-book/missions/member-states/jordan
+72,United Kingdom (UK),GB,https://www.ungeneva.org/en/blue-book/missions/member-states/united-kingdom-great-britain-and-northern-ireland
+73,Russian Federation,RU,https://www.ungeneva.org/en/blue-book/missions/member-states/russian-federation
+74,Luxembourg,LU,https://www.ungeneva.org/en/blue-book/missions/member-states/luxembourg
+75,Ethiopia,ET,https://www.ungeneva.org/en/blue-book/missions/member-states/ethiopia
+76,Dominican Republic,DO,https://www.ungeneva.org/en/blue-book/missions/member-states/dominican-republic
+77,Paraguay,PY,https://www.ungeneva.org/en/blue-book/missions/member-states/paraguay
+78,El Salvador,SV,https://www.ungeneva.org/en/blue-book/missions/member-states/el-salvador
+79,Bahamas,BS,https://www.ungeneva.org/en/blue-book/missions/member-states/bahamas
+80,Jamaica,JM,https://www.ungeneva.org/en/blue-book/missions/member-states/jamaica
+81,San Marino,SM,https://www.ungeneva.org/en/blue-book/missions/member-states/san-marino
+82,Trinidad and Tobago,TT,https://www.ungeneva.org/en/blue-book/missions/member-states/trinidad-and-tobago
+83,Yemen,YE,https://www.ungeneva.org/en/blue-book/missions/member-states/yemen
+84,Gabon,GA,https://www.ungeneva.org/en/blue-book/missions/member-states/gabon
+85,Malaysia,MY,https://www.ungeneva.org/en/blue-book/missions/member-states/malaysia
+86,Liberia,LR,https://www.ungeneva.org/en/blue-book/missions/member-states/liberia
+87,Sudan,SD,https://www.ungeneva.org/en/blue-book/missions/member-states/sudan
+88,Mongolia,MN,https://www.ungeneva.org/en/blue-book/missions/member-states/mongolia
+89,Malta,MT,https://www.ungeneva.org/en/blue-book/missions/member-states/malta
+90,Belarus,BY,https://www.ungeneva.org/en/blue-book/missions/member-states/belarus
+91,Ukraine,UA,https://www.ungeneva.org/en/blue-book/missions/member-states/ukraine
+92,Iceland,IS,https://www.ungeneva.org/en/blue-book/missions/member-states/iceland
+93,Congo,CG,https://www.ungeneva.org/en/blue-book/missions/member-states/congo
+94,Chad,TD,https://www.ungeneva.org/en/blue-book/missions/member-states/chad
+95,Myanmar,MM,https://www.ungeneva.org/en/blue-book/missions/member-states/myanmar
+96,Senegal,SN,https://www.ungeneva.org/en/blue-book/missions/member-states/senegal
+97,Nicaragua,NI,https://www.ungeneva.org/en/blue-book/missions/member-states/nicaragua
+98,Fiji,FJ,https://www.ungeneva.org/en/blue-book/missions/member-states/fiji
+99,Honduras,HN,https://www.ungeneva.org/en/blue-book/missions/member-states/honduras
+100,Bangladesh,BD,https://www.ungeneva.org/en/blue-book/missions/member-states/bangladesh
+101,Cambodia,KH,https://www.ungeneva.org/en/blue-book/missions/member-states/cambodia
+102,North Korea (DPRK),KP,https://www.ungeneva.org/en/blue-book/missions/member-states/democratic-peoples-republic-korea
+103,Benin,BJ,https://www.ungeneva.org/en/blue-book/missions/member-states/benin
+104,Cyprus,CY,https://www.ungeneva.org/en/blue-book/missions/member-states/cyprus
+105,Singapore,SG,https://www.ungeneva.org/en/blue-book/missions/member-states/singapore
+106,Central African Republic,CF,https://www.ungeneva.org/en/blue-book/missions/member-states/central-african-republic
+107,Qatar,QA,https://www.ungeneva.org/en/blue-book/missions/member-states/qatar
+108,Oman,OM,https://www.ungeneva.org/en/blue-book/missions/member-states/oman
+109,Cameroon,CM,https://www.ungeneva.org/en/blue-book/missions/member-states/cameroon
+110,Madagascar,MG,https://www.ungeneva.org/en/blue-book/missions/member-states/madagascar
+111,Kenya,KE,https://www.ungeneva.org/en/blue-book/missions/member-states/kenya
+112,Somalia,SO,https://www.ungeneva.org/en/blue-book/missions/member-states/somalia
+113,United Arab Emirates (UAE),AE,https://www.ungeneva.org/en/blue-book/missions/member-states/united-arab-emirates
+114,Tanzania,TZ,https://www.ungeneva.org/en/blue-book/missions/member-states/united-republic-tanzania
+115,Burundi,BI,https://www.ungeneva.org/en/blue-book/missions/member-states/burundi
+117,Nepal,NP,https://www.ungeneva.org/en/blue-book/missions/member-states/nepal
+118,Bahrain,BH,https://www.ungeneva.org/en/blue-book/missions/member-states/bahrain
+119,Afghanistan,AF,https://www.ungeneva.org/en/blue-book/missions/member-states/afghanistan
+120,Rwanda,RW,https://www.ungeneva.org/en/blue-book/missions/member-states/rwanda
+121,Bhutan,BT,https://www.ungeneva.org/en/blue-book/missions/member-states/bhutan
+122,Guinea,GN,https://www.ungeneva.org/en/blue-book/missions/member-states/guinee
+123,Zimbabwe,ZW,https://www.ungeneva.org/en/blue-book/missions/member-states/zimbabwe
+124,Hong Kong,HK,
+125,Albania,AL,https://www.ungeneva.org/en/blue-book/missions/member-states/albania
+126,Brunei Darussalam,BN,https://www.ungeneva.org/en/blue-book/missions/member-states/brunei-darussalam
+127,Dominica,DM,https://www.ungeneva.org/en/blue-book/missions/member-states/dominica
+128,Sao Tome and Principe,ST,https://www.ungeneva.org/en/blue-book/missions/member-states/sao-tome-and-principe
+129,Equatorial Guinea,GQ,https://www.ungeneva.org/en/blue-book/missions/member-states/equatorial-guinea
+130,Belize,BZ,https://www.ungeneva.org/en/blue-book/missions/member-states/belize
+131,Mauritus,MU,https://www.ungeneva.org/en/blue-book/missions/member-states/mauritius
+132,Kyrgyzstan,KG,https://www.ungeneva.org/en/blue-book/missions/member-states/kyrgyzstan
+133,Slovenia,SI,https://www.ungeneva.org/en/blue-book/missions/member-states/slovenia
+134,Croatia,HR,https://www.ungeneva.org/en/blue-book/missions/member-states/croatia
+135,Zambia,ZM,https://www.ungeneva.org/en/blue-book/missions/member-states/zambia
+136,Bosnia and Herzegovina,BA,https://www.ungeneva.org/en/blue-book/missions/member-states/bosnia-and-herzegovina
+137,Slovakia,SK,https://www.ungeneva.org/en/blue-book/missions/member-states/slovakia
+138,Lithuania,LT,https://www.ungeneva.org/en/blue-book/missions/member-states/lithuania
+139,Latvia,LV,https://www.ungeneva.org/en/blue-book/missions/member-states/latvia
+141,Angola,AO,https://www.ungeneva.org/en/blue-book/missions/member-states/angola
+142,Macedonia,MK,https://www.ungeneva.org/en/blue-book/missions/member-states/north-macedonia
+143,Gambia,GM,https://www.ungeneva.org/en/blue-book/missions/member-states/gambia
+144,Armenia,AM,https://www.ungeneva.org/en/blue-book/missions/member-states/armenia
+145,Estonia,EE,https://www.ungeneva.org/en/blue-book/missions/member-states/estonia
+146,Uganda,UG,https://www.ungeneva.org/en/blue-book/missions/member-states/uganda
+147,Kazakhstan,KZ,https://www.ungeneva.org/en/blue-book/missions/member-states/kazakhstan
+148,Eritrea,ER,https://www.ungeneva.org/en/blue-book/missions/member-states/eritrea
+149,Georgia,GE,https://www.ungeneva.org/en/blue-book/missions/member-states/georgia
+150,Mauritania,MR,https://www.ungeneva.org/en/blue-book/missions/member-states/mauritania
+151,"Moldova, Republic of",MD,https://www.ungeneva.org/en/blue-book/missions/member-states/republic-moldova
+152,Azerbaijan,AZ,https://www.ungeneva.org/en/blue-book/missions/member-states/azerbaijan
+153,Lesotho,LS,https://www.ungeneva.org/en/blue-book/missions/member-states/lesotho
+154,Barbados,BB,https://www.ungeneva.org/en/blue-book/missions/member-states/barbados
+155,Cape Verde,CV,
+156,Mozambique,MZ,https://www.ungeneva.org/en/blue-book/missions/member-states/mozambique
+157,Andorra,AD,https://www.ungeneva.org/en/blue-book/missions/member-states/andorra
+158,Botswana,BW,https://www.ungeneva.org/en/blue-book/missions/member-states/botswana
+159,Mali,ML,https://www.ungeneva.org/en/blue-book/missions/member-states/mali
+160,Uzbekistan,UZ,https://www.ungeneva.org/en/blue-book/missions/member-states/uzbekistan
+161,Burkina Faso,BF,https://www.ungeneva.org/en/blue-book/missions/member-states/burkina-faso
+162,Namibia,NA,https://www.ungeneva.org/en/blue-book/missions/member-states/namibia
+163,Timor-Leste,TL,https://www.ungeneva.org/en/blue-book/missions/member-states/timor-leste
+164,Saint Kitts and Nevis,KN,
+165,Eswatini,EW,https://www.ungeneva.org/en/blue-book/missions/member-states/eswatini
+166,Djibouti,DJ,https://www.ungeneva.org/en/blue-book/missions/member-states/djibouti
+167,Maldives,MV,https://www.ungeneva.org/en/blue-book/missions/member-states/maldives
+168,Montenegro,ME,https://www.ungeneva.org/en/blue-book/missions/member-states/montenegro
+169,Laos,LA,https://www.ungeneva.org/en/blue-book/missions/member-states/lao-peoples-democratic-republic
+170,Niger,NE,https://www.ungeneva.org/en/blue-book/missions/member-states/niger
+171,Tajikistan,TJ,https://www.ungeneva.org/en/blue-book/missions/member-states/tajikistan
+172,Grenada,GD,https://www.ungeneva.org/en/blue-book/missions/member-states/grenada
+173,Kosovo,KO,
+174,Palestine,PS,https://www.ungeneva.org/en/blue-book/missions/non-member-states/state-palestine
+175,Togo,TG,https://www.ungeneva.org/en/blue-book/missions/member-states/togo
+176,Comoros,KM,https://www.ungeneva.org/en/blue-book/missions/member-states/comoros
+177,Turkmenistan,TM,https://www.ungeneva.org/en/blue-book/missions/member-states/turkmenistan
+178,Solomon Islands,SB,https://www.ungeneva.org/en/blue-book/missions/member-states/solomon-islands
+179,Sierra Leone,SL,https://www.ungeneva.org/en/blue-book/missions/member-states/sierra-leone
+180,Seychelles,SC,https://www.ungeneva.org/en/blue-book/missions/member-states/seychelles
+181,South Sudan,SS,https://www.ungeneva.org/en/blue-book/missions/member-states/south-sudan
+182,Saint Lucia,LC,https://www.ungeneva.org/en/blue-book/missions/member-states/saint-lucia
+183,Guyana,GY,https://www.ungeneva.org/en/blue-book/missions/member-states/guyana
+201,European Union,EU,https://www.ungeneva.org/en/blue-book/missions/intergovernmental/european-union
+202,Organization of American States,OAS,
+203,Organization of Central American Economic Integration,OCAEI,
+204,International Voluntary Service Secretariat,IVSS,
+205,African Groundnut Council,AGC,
+206,The Organization of African Unity,OAU,
+207,Commonwealth,CWE,
+208,League of Arab States,ARL,https://www.ungeneva.org/en/blue-book/missions/intergovernmental/league-arab-states
+211,Organisation of Islamic Cooperation,OIC,https://www.ungeneva.org/en/blue-book/missions/intergovernmental/organization-islamic-cooperation
+212,Group of 15,G15,
+213,International Organization of Francophone Countries,IOFC,https://www.ungeneva.org/en/blue-book/missions/intergovernmental/international-organization-la-francophonie
+214,The World Bank (WTO and UN),WB,https://www.worldbank.org/ext/en/home
+215,"African, Caribbean and Pacific Group",ACPG,https://www.ungeneva.org/en/blue-book/missions/intergovernmental/organization-african-caribbean-and-pacific-states
+216,Macao WTO Office,MACAO-WTO,
+217,Pacific Islands Forum,PIF,https://www.ungeneva.org/en/blue-book/missions/intergovernmental/pacific-islands-forum
+221,,,
+225,Gulf Cooperation Council,GCC,https://www.ungeneva.org/en/blue-book/missions/intergovernmental/cooperation-council-arab-states-gulf
+227,,,
+250,Strategic Arms Limitation Talks - Russia,SALT-USSR,
+251,Strategic Arms Limitation Talks - USA,SALT-USA,
+252,Strategic Arms Limitation Talks - China,SALT-CHINA,
+254,"Separate Customs Territory of Taiwan, Pengu, Kinmen and Matsu to the WTO",SCT-WTO,
+302,Canada Conference on Disarmament,,
+304,Australia Conference on Disarmament,,
+309,USA Conference on Disarmament,,
+310,Brazil Conference on Disarmament,,
+313,Japan Conference on Disarmament,,
+324,Chile Conference on Disarmament,,
+331,Finland Conference on Disarmament,,
+332,France Conference on Disarmament,,
+336,India Conference on Disarmament,,
+339,Italy Conference on Disarmament,,
+351,Germany Conference on Disarmament,,
+355,China Conference on Disarmament,,
+362,Belgium Conference on Disarmament,,
+368,,,
+372,United Kingdom Conference on Disarmament,,
+373,Russia Conference on Disarmament,,
+500,Taiwan WTO,TW-WTO,
+502,Canada WTO,CA-WTO,
+503,Sri Lanka WTO,LK-WTO,
+504,Australia WTO,AU-WTO,
+509,USA WTO,US-WTO,
+510,Brazil WTO,BR-WTO,
+511,Mexico WTO,MX-WTO,
+514,New Zealand WTO,NZ-WTO,
+524,Chile WTO,CL-WTO,
+525,Colombia WTO,CO-WTO,
+527,Costa Rica WTO,CR-WTO,
+530,Ecuador WTO,EC-WTO,
+534,Guatemala WTO,GT-WTO,
+535,Haiti WTO,HT-WTO,
+536,India WTO,IN-WTO,
+541,Panama WTO,PA-WTO,
+543,Philippines WTO,PH-WTO,
+546,Turkey WTO,TR-WTO,
+547,Uruguay WTO,UY-WTO,
+553,Pakistan WTO,PK-WTO,
+555,China WTO,CN-WTO,
+556,Hungary WTO,HU-WTO,
+561,Saudi Arabia WTO,SA-WTO,
+563,Denmark WTO,DK-WTO,
+567,Norway WTO,NO-WTO,
+570,Thailand WTO,TH-WTO,
+573,Russian Federation WTO,RU-WTO,
+577,,,
+578,El Salvador WTO,SV-WTO,
+585,Malaysia WTO,MY-WTO,
+599,Honduras WTO,HN-WTO,
+601,Cambodia WTO,KH-WTO,
+605,Singapour WTO,SG-WTO,
+647,Kazakhstan WTO,KZ-WTO,
+662,Namibia WTO,NA-WTO,
+664,Saint Kitts and Nevis WTO,KN-WTO,
+668,Montenegro WTO,ME-WTO,
+701,European Union WTO,EU-WTO,
